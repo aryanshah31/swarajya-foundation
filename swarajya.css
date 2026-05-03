@@ -315,3 +315,13 @@ label {
 ul.jayant-balbhavan {
     font-size: 20px;
 }
+
+.WA {
+    display: inline-block;
+    padding: 12px 20px;
+    background-color: #25D366;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+    text-decoration: none;
+}
