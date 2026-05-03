@@ -317,11 +317,19 @@ ul.jayant-balbhavan {
 }
 
 .WA {
+    position: fixed;
+    font-size: 30px;
     display: inline-block;
     padding: 12px 20px;
     background-color: #25D366;
     color: white;
     font-weight: bold;
+    line-height: 60px;
     border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+    z-index: 1000;
     text-decoration: none;
 }
+
+.WA:hover {
+    background-color: #1ebe5d;
