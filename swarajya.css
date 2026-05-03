@@ -334,3 +334,30 @@ ul.jayant-balbhavan {
 .WA:hover {
     background-color: #1ebe5d;
 }
+
+.balbhavan-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.content-outbox {
+    display: flex;
+    flex-direction: row;
+    padding: 25px 10px 25px 10px;
+    border-radius: 5px;
+}
+
+.content-title {
+    align-items: center;
+    width: 50%;
+    font-size: 40px;
+    font-weight: 900;
+    margin: 0;
+    padding: 0%;
+}
+
+.content-box {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 50%;
+}
